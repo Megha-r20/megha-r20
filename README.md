@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-v3.svg" alt="Megha R — Full-Stack Developer. I build web products, design digital experiences, turn ideas into reality." width="100%" />
+<img src="assets/hero-v4.svg" alt="Megha R — Full-Stack Developer. I build web products, design digital experiences, turn ideas into reality." width="100%" />
 
 <br/>
 
@@ -70,7 +70,7 @@
 
 <img src="assets/h-roadmap.svg" alt="04 Roadmap" width="100%" />
 
-<img src="assets/roadmap-v3.svg" alt="Career roadmap: 2026 build and prepare, 2027 internship, 2028 graduate and software engineer, 2030+ specialize in AI, cloud and data" width="100%" />
+<img src="assets/roadmap-v4.svg" alt="Career roadmap: 2026 build and prepare, 2027 internship, 2028 graduate and software engineer, 2030+ specialize in AI, cloud and data" width="100%" />
 
 <br/><br/>
 
