@@ -4,11 +4,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-megha--r20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-r20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-megha--r20-1e1e2f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-r20)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=megha.ragumani@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Say%20hello-b40023?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=megha.ragumani@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://megha-r-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-b40023?style=for-the-badge&logo=vercel&logoColor=white)](https://megha-r-portfolio.vercel.app/)
 
 </div>
 
@@ -33,15 +33,15 @@
 <div align="center">
 
 <a href="https://elow-store.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Storefront-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10141d" height="34" alt="Live Storefront" />
+  <img src="https://img.shields.io/badge/Live-Storefront-b40023?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101019" height="34" alt="Live Storefront" />
 </a>
 &nbsp;&nbsp;
 <a href="https://elow.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live-REST_API-0284C7?style=for-the-badge&logo=render&logoColor=white&labelColor=10141d" height="34" alt="Live REST API" />
+  <img src="https://img.shields.io/badge/Live-REST_API-e0294a?style=for-the-badge&logo=render&logoColor=white&labelColor=101019" height="34" alt="Live REST API" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Megha-r20/elow" target="_blank">
-  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=10141d" height="34" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101019" height="34" alt="Source Code" />
 </a>
 
 </div>
@@ -53,11 +53,11 @@
 <div align="center">
 
 <a href="https://meraki-ngo-platform.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Demo-0D9488?style=for-the-badge&logo=netlify&logoColor=white&labelColor=10141d" height="34" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live-Demo-b40023?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101019" height="34" alt="Live Demo" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kalviumcommunity/s82_Megha_Capstone_Meraki" target="_blank">
-  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=10141d" height="34" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101019" height="34" alt="Source Code" />
 </a>
 
 </div>

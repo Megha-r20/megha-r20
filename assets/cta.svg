@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Let's build something. Contact megha.ragumani@gmail.com"><title>Let's build something. Contact megha.ragumani@gmail.com</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1147"/><stop offset=".5" stop-color="#4c1d95"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Let's build something. Contact megha.ragumani@gmail.com"><title>Let's build something. Contact megha.ragumani@gmail.com</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101019"/><stop offset=".5" stop-color="#14141e"/><stop offset="1" stop-color="#1e1e2f"/></linearGradient>
 <filter id="bl" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="40"/></filter><clipPath id="rd"><rect width="1000" height="200" rx="26"/></clipPath></defs>
 <g clip-path="url(#rd)"><rect width="1000" height="200" fill="url(#bg)"/>
-<circle cx="820" cy="40" r="90" fill="#f0abfc" opacity=".35" filter="url(#bl)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 40;0 0" dur="8s" repeatCount="indefinite"/></circle>
-<circle cx="120" cy="190" r="90" fill="#22d3ee" opacity=".3" filter="url(#bl)"><animateTransform attributeName="transform" type="translate" values="0 0;60 -30;0 0" dur="9s" repeatCount="indefinite"/></circle></g>
-<text x="500" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#fff">Let's build something.</text>
-<text x="500" y="118" text-anchor="middle" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#e9e5ff">Internships · open-source · product collaborations</text>
-<rect x="330" y="140" width="340" height="38" rx="19" fill="#fff"/>
-<text x="500" y="164" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#4c1d95">megha.ragumani@gmail.com</text></svg>
+<circle cx="820" cy="40" r="90" fill="#8f001c" opacity=".35" filter="url(#bl)"><animateTransform attributeName="transform" type="translate" values="0 0;-60 40;0 0" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="190" r="90" fill="#e0294a" opacity=".3" filter="url(#bl)"><animateTransform attributeName="transform" type="translate" values="0 0;60 -30;0 0" dur="9s" repeatCount="indefinite"/></circle></g>
+<text x="500" y="82" text-anchor="middle" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="42" font-weight="800" fill="#f8f8f8">Let's build something.</text>
+<text x="500" y="118" text-anchor="middle" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#9a959a">Internships · open-source · product collaborations</text>
+<rect x="330" y="140" width="340" height="38" rx="19" fill="#f8f8f8"/>
+<text x="500" y="164" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#b40023">megha.ragumani@gmail.com</text></svg>
