@@ -1,88 +1,62 @@
-# Project Name
+<div align="center">
 
-A simple and clean project starter for building and sharing your work on GitHub.
+<img src="assets/hero.svg" alt="Megha R — Full-Stack Developer. I build web products, design digital experiences, turn ideas into reality." width="100%" />
 
-## Overview
+<br/>
 
-This project provides a foundation for your application or service. You can use it as a starting point for development, experimentation, or deployment.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-megha--r20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-r20)
+[![Email](https://img.shields.io/badge/Gmail-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=megha.ragumani@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white)](https://megha-r.netlify.app/)
 
-## Features
+</div>
 
-- Easy to customize
-- Simple project structure
-- Ready for GitHub hosting
-- Great starting point for new work
+<br/>
 
-## Getting Started
+<img src="assets/h-about.svg" alt="01 About" width="100%" />
 
-### Prerequisites
+<img src="assets/terminal.svg" alt="Terminal: Megha R, Full-Stack Developer, B.Tech CSE (Software Product Engineering) at KARE, 2024 to 2028, open to internships 2026+" width="100%" />
 
-Make sure you have the following installed:
+<br/>
 
-- Git
-- Node.js
-- npm or yarn
+<img src="assets/h-stack.svg" alt="02 Tech Stack" width="100%" />
 
-### Installation
+<img src="assets/stack.svg" alt="Tech stack: React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, Framer Motion, LLM integration" width="100%" />
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+<br/><br/>
 
-2. Open the project folder:
-   ```bash
-   cd your-repository
-   ```
+<img src="assets/h-projects.svg" alt="03 Featured Projects" width="100%" />
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+<a href="https://elow-store.vercel.app/"><img src="assets/project-elow.svg" alt="ELOW: full-stack e-commerce platform with JWT auth, RBAC, Stripe payments and webhooks, atomic stock deduction and an admin portal" width="100%" /></a>
 
-4. Run the app:
-   ```bash
-   npm start
-   ```
+<div align="center">
 
-## Usage
+[![Live Storefront](https://img.shields.io/badge/Live-Storefront-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://elow-store.vercel.app/)
+[![REST API](https://img.shields.io/badge/Live-REST%20API-46E3B7?style=flat-square&logo=render&logoColor=black)](https://elow.onrender.com)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Megha-r20/elow)
 
-Use this project as a base for your application. You can modify the code, add features, and expand the structure as needed.
+</div>
 
-```bash
-npm run dev
-```
+<br/>
 
-## Project Structure
+<a href="https://meraki-ngo-platform.netlify.app/"><img src="assets/project-meraki.svg" alt="MERAKI: NGO volunteer platform with opportunities, application tracking and role-based dashboards, built with Node.js, Express and MongoDB" width="100%" /></a>
 
-```text
-project-root/
-├── src/
-├── public/
-├── tests/
-├── package.json
-├── README.md
-├── .gitignore
-└── LICENSE
-```
+<div align="center">
 
-## Contributing
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=netlify&logoColor=white)](https://meraki-ngo-platform.netlify.app/)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kalviumcommunity/s82_Megha_Capstone_Meraki)
 
-Contributions are welcome. To contribute:
+</div>
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit and push
-5. Open a pull request
+<br/>
 
-## License
+<a href="https://github.com/Megha-r20?tab=repositories"><img src="assets/more.svg" alt="And so on — more projects on GitHub" width="100%" /></a>
 
-This project is licensed under the MIT License.
+<br/><br/>
 
-## Contact
+<img src="assets/h-roadmap.svg" alt="04 Roadmap" width="100%" />
 
-Your Name  
-Email: your.email@example.com
+<img src="assets/roadmap.svg" alt="Career roadmap: 2026 build and prepare, 2027 internship, 2028 graduate and software engineer, 2030+ specialize in AI, cloud and data" width="100%" />
 
-GitHub: https://github.com/your-username/your-repository
+<br/><br/>
+
+<a href="mailto:megha.ragumani@gmail.com"><img src="assets/cta.svg" alt="Let's build something. Contact megha.ragumani@gmail.com" width="100%" /></a>
