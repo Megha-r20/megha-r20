@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-megha--r20-1e1e2f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-r20)
 &nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-r__megha-1e1e2f?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/r_megha/)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Say%20hello-b40023?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=megha.ragumani@gmail.com)
 &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-b40023?style=for-the-badge&logo=vercel&logoColor=white)](https://megha-r-portfolio.vercel.app/)
