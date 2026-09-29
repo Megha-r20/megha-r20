@@ -5,8 +5,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-megha--r20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megha-r20)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=megha.ragumani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white)](https://megha-r.netlify.app/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://megha-r-portfolio.vercel.app/)
 
 </div>
 
@@ -30,9 +32,17 @@
 
 <div align="center">
 
-[![Live Storefront](https://img.shields.io/badge/Live-Storefront-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://elow-store.vercel.app/)
-[![REST API](https://img.shields.io/badge/Live-REST%20API-46E3B7?style=flat-square&logo=render&logoColor=black)](https://elow.onrender.com)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Megha-r20/elow)
+<a href="https://elow-store.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Storefront-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=10141d" height="34" alt="Live Storefront" />
+</a>
+&nbsp;&nbsp;
+<a href="https://elow.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live-REST_API-0284C7?style=for-the-badge&logo=render&logoColor=white&labelColor=10141d" height="34" alt="Live REST API" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Megha-r20/elow" target="_blank">
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=10141d" height="34" alt="Source Code" />
+</a>
 
 </div>
 
@@ -42,8 +52,13 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square&logo=netlify&logoColor=white)](https://meraki-ngo-platform.netlify.app/)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kalviumcommunity/s82_Megha_Capstone_Meraki)
+<a href="https://meraki-ngo-platform.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-0D9488?style=for-the-badge&logo=netlify&logoColor=white&labelColor=10141d" height="34" alt="Live Demo" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kalviumcommunity/s82_Megha_Capstone_Meraki" target="_blank">
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=10141d" height="34" alt="Source Code" />
+</a>
 
 </div>
 
