@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Career roadmap: 2026 build and prepare, 2027 internship, 2028 graduate and software engineer, 2030+ specialize in AI cloud data"><title>Career roadmap: 2026 build and prepare, 2027 internship, 2028 graduate and software engineer, 2030+ specialize in AI cloud data</title><defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4d6d"/><stop offset=".25" stop-color="#e0294a"/><stop offset=".5" stop-color="#b40023"/><stop offset=".75" stop-color="#8f001c"/><stop offset="1" stop-color="#ff6b85"/></linearGradient></defs>
+<g id="clouds">
+<g fill="#f8f8f8" opacity="0.16"><animateTransform attributeName="transform" type="translate" from="1040 24" to="-100 24" dur="32s" begin="-10s" repeatCount="indefinite"/><g transform="scale(1.0)"><path d="M21 0h12v3h-12z M15 3h24v3h-24z M51 3h9v3h-9z M9 6h57v3h-57z M3 9h69v3h-69z"/></g></g>
+<g fill="#f8f8f8" opacity="0.14"><animateTransform attributeName="transform" type="translate" from="1040 42" to="-100 42" dur="25s" begin="-16s" repeatCount="indefinite"/><g transform="scale(0.9)"><path d="M18 0h9v3h-9z M12 3h21v3h-21z M6 6h33v3h-33z M0 9h45v3h-45z"/></g></g>
+</g>
 <rect x="60" y="128" width="880" height="4" rx="2" fill="url(#ln)" opacity=".85"/>
 <circle cx="100" cy="130" r="10" fill="none" stroke="#ff4d6d" stroke-width="2"><animate attributeName="r" values="10;26" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="100" cy="130" r="10" fill="#101019" stroke="#ff4d6d" stroke-width="3"/><circle cx="100" cy="130" r="4" fill="#ff4d6d"/>
 <text x="100" y="92" text-anchor="middle" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#ff4d6d">2026</text>
