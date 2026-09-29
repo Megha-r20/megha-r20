@@ -74,4 +74,8 @@
 
 <br/><br/>
 
+<a href="https://megha-r-portfolio.vercel.app/"><img src="assets/dino.svg" alt="Chrome Dino Runner: Crimson Edition Easter Egg" width="100%" /></a>
+
+<br/><br/>
+
 <a href="mailto:megha.ragumani@gmail.com"><img src="assets/cta.svg" alt="Let's build something. Contact megha.ragumani@gmail.com" width="100%" /></a>
