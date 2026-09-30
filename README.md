@@ -18,7 +18,7 @@
 
 <img src="assets/h-about.svg" alt="01 About" width="100%" />
 
-<img src="assets/terminal-v2.svg" alt="Terminal: Megha R, Full-Stack Developer, B.Tech CSE (Software Product Engineering) at KARE, 2024 to 2028, open to internships 2026+" width="100%" />
+<img src="assets/terminal-v3.svg" alt="Terminal: Megha R, Full-Stack Developer, B.Tech CSE (Software Product Engineering) at KARE, 2024 to 2028, open to internships 2026+" width="100%" />
 
 <br/>
 
